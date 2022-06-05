@@ -1,0 +1,16 @@
+body {
+    background-color: #323031;
+    color: #fff;
+}
+
+.clock {
+    font-size: 3em;
+    margin: 200px auto;
+    text-align: center;
+    color: #ea7317;
+}
+
+.clock span {
+    padding: 20px;
+    background-color: #0e0c0d;
+}
